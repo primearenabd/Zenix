@@ -83,11 +83,57 @@ For the poster reel, build the same poster in each tool: one hero deal, two supp
 
 ---
 
-## More ideas in the same format (scripts not written yet)
+## Idea bank: 12 ranking and comparison videos
 
-- **CAPTIONS:** best free way to add captions to a supermarket reel (CapCut vs the others), tested on the same clip.
-- **REPLY TOOLS:** free ways to answer Instagram messages faster, ranked by setup time.
-- **SAME DEAL, THREE POSTS:** one offer turned into a poster, a story and a reel, compared by how long each took.
+Tool names only. I have not stated any price, limit or feature that could be out of date. You record and test, then send me your scores and I rank them. Comment keywords and the automation are set up later.
+
+**Supermarket first (8):**
+
+| # | Hook question | Tools to test | What you record | Format | Keyword |
+|---|---|---|---|---|---|
+| 1 | What's the best free tool for a supermarket's weekly poster? | Canva, Adobe Express, PosterMyWall | Same poster built in each, timed | Tier list | POSTER |
+| 2 | What's the best free way to add captions to a supermarket reel? | CapCut, VN, InShot, Instagram's built-in captions | Same 20-second clip, captions on, compare accuracy and time | Tier list | CAPTIONS |
+| 3 | Which free tool cuts out a product photo best? | Canva, Adobe Express, remove.bg, your phone's photo app | Same jar or produce photo, zoom in on the edges | Comparison | CUTOUT |
+| 4 | Can AI write your week of captions? I tested five, blind. | A few AI chat assistants | Same brief to each, hide the names, score the answers without knowing which is which | Blind test | BLIND |
+| 5 | Meta Business Suite, Buffer or Later: which one should a supermarket use to schedule? | Meta Business Suite, Buffer, Later | Schedule the same three posts in each | Comparison with decision rule | SCHEDULE |
+| 6 | What's the best free way to make a link page for your store? | Linktree, Beacons, Instagram's own links | Time to set up one page with hours, map and weekly deal | Tier list | LINKS |
+| 7 | Which free QR code maker is safe for your weekly flyer? | A few free QR generators | Make one per tool, scan it, check whether it can be edited later and whether it expires or shows ads | Tier list | QR |
+| 8 | Can AI turn one deal into a video? I tried four. | Flow (Omni or Veo) and other AI video tools | Same 15-second deal video brief in each, compare time, cost and realism | Tier list | AIVIDEO |
+
+**Restaurants (4):**
+
+| # | Hook question | Tools to test | What you record | Format | Keyword |
+|---|---|---|---|---|---|
+| 9 | What's the best free marketing tool for a restaurant? | Written above (script 2) | See script 2 | Tier list | TOOLS |
+| 10 | What's the best free QR menu maker? | A few free QR menu tools | Build the same three-item menu in each, scan on a phone | Tier list | MENU |
+| 11 | Can AI reply to your Google reviews? I tested it on five. | A few AI chat assistants and Google's own reply tools | The same five sample reviews, score the replies for tone and accuracy | Blind test | REVIEWS |
+| 12 | Which free tool makes restaurant food photos look best? | Snapseed, Lightroom mobile, Canva | Same phone photo edited in each, before and after | Comparison | PHOTO |
+
+## Which to film first
+
+1. **POSTER** (already scripted), then **CAPTIONS** and **CUTOUT**: easy, visual and fast to test. They also show results on screen, which helps the hook.
+2. **BLIND** (AI captions, blind test): curiosity plus a fair method. One disclosure: I am an AI assistant made by one of the companies whose products could be in this test, so I should not judge it. Score the blind answers yourselves, and say in the video that the names were hidden.
+3. **SCHEDULE** and **LINKS**: useful for every store.
+4. **AIVIDEO** fits our service offer, since we use these tools ourselves.
+
+## Risks to check before each one
+
+- **Stay within the free plan** and say so on screen. If a feature needs a paid plan, say that too. Do not state prices.
+- **AI food images:** if you test AI image tools, never present generated produce or products as real stock photos or as the actual item on sale.
+- **Email and SMS tools:** if you later test them, marketing messages need customer consent, and text messaging has its own rules in the U.S. Do not suggest sending to people who have not opted in.
+- **Real data:** when you record, blur customer names, phone numbers, account IDs and any keys.
+- **QR and link tools:** check whether the free plan adds ads, expires or lets you edit the link later.
+- **Use the tool's current screens,** and re-test if a feature looks different from what a guide says.
+
+## Test scorecard
+
+Use the same scorecard on every tool, with the same task and the same time limit, on the free plan only. Screen-record each run.
+
+| Tool | Minutes to a finished result | Free plan hit a paywall or watermark? (yes/no) | Result quality without a designer (1 to 5) | Ease for a non-expert (1 to 5) | One thing it did well | One thing that annoyed you |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+
+Send me the filled rows. I'll turn them into a ranking, the on-screen tier list and the script, and flag any claim you did not test.
 
 ## What these replace
 
