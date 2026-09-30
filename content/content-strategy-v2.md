@@ -52,7 +52,7 @@ Third-party sources only. Check the two policy points on Meta's own pages before
 | 11 | Proof | "Four hundred percent. That's not a typo." | Approved Khaamar Baari claim and clear-offer lesson | STORE | Presenter and client footage |
 | 12 | Makeover | "Same store, same deals. Which flyer would you read?" | Two flyers side by side, pick one | FLYER | Design recording |
 
-Scripts 1, 2, 3 and 4 are written below. Reels 9, 10 and 11 already exist in the clip prompts file. I would film 1 to 4 first.
+Scripts 1 to 4 are written below, and scripts 5 to 10 follow the format section. Reels 9, 10 and 11 already exist in the clip prompts file. I would film 1 to 4 first.
 
 ## Four finished scripts
 
@@ -103,6 +103,87 @@ Each runs about 30 seconds. The presenter (real or AI) opens and closes. The mid
 **Screen recording beats:** a test account comments DEMO, the DM arrives; then the automation tool's trigger and message screens (hide any names and keys).
 **Compliance:** use a tool that works through Meta's official API, and only message people who commented.
 **Guide to send:** the setup guide and a blank reply template.
+
+## Seven proven formats to add
+
+Found in the reference reel you sent (a creator breaking down why ranking videos go viral, about 97 seconds) and in your list. I sampled frames from it, about one every 8 seconds, so this is what the picture shows, not a transcript of the audio.
+
+**What the reference does:**
+- **Split screen:** a visual on top (a tier list with real view counts beside each example) and the presenter in a small window at the bottom.
+- **Big word-by-word captions** in the middle, so it works on mute.
+- **A three-point framework on screen** ("Progressive reveal, Controversial score, Commentary") that the speaker walks through.
+- **Proof first:** the examples are real videos with their view counts shown.
+
+**What we take from it:** the presenter does not have to carry every second. A small presenter window plus a visual built in the editor is cheaper, more reliable and more believable than generating B-roll with the video model. The presenter clips become simple continuous shots.
+
+| Format | How it works | Zenix example | Keyword |
+|---|---|---|---|
+| **Tier list (S to F)** | Items drop into a tier graphic one by one; one placement is a little controversial | Six supermarket post types ranked S to F | TIER |
+| **Comparison** | Two versions side by side, viewer picks | Poster A (twenty offers) vs poster B (one hero deal) | POSTER |
+| **Curiosity list** | Numbered list with a teased last item | Three things I check first in any supermarket's marketing | CHECK |
+| **Common mistakes** | Named mistakes plus a five-minute fix | Three Google profile mistakes that can send shoppers away | MAP |
+| **Listicle** | "Five things to do or not miss" | The seven-day content plan (WEEK) | GROW |
+| **Q&A** | Start from a real question, answer it in 30 seconds | "Should I boost my posts?" | ASK |
+| **Reaction** | React to a flyer, post or ad | A flyer a store owner sent us, with permission | REACT |
+
+**Two integrity rules for these formats:**
+- **Curiosity hook with the 400%:** "My client got 400% in a year by following these three tricks" says more than the approved claim allows. The approved sentence only says Khaamar Baari achieved 400% revenue growth in one year while working with Zenix. Do not present three tips as the cause. A safe version keeps them apart: state the approved sentence, then say "here are three things I check first in any supermarket".
+- **Q&A and reaction need real material.** Use real questions and flyers that people sent you, with permission, and anonymise them. Never invent viewer comments or submissions, and do not pick on a named competitor.
+
+## Format scripts (about 30 seconds each)
+
+Layout for all of them: top half is the graphic, bottom is the presenter window, with big word-by-word captions in the middle. Tier placements and "winners" are our opinion and should be said that way.
+
+### 5. TIER (tier list)
+
+**Hook:** "I ranked six supermarket post types from S tier to F tier."
+**Graphic:** a blank tier list. Each post type drops in as it is spoken (progressive reveal).
+
+**Script:**
+"I ranked six supermarket post types, S tier to F tier. F tier: the buy now graphic. Nothing to learn, nothing to save. D tier: a blurry flyer photo. C tier: a price list. B tier: a staff introduction. A tier: a recipe using this week's deal. S tier: answering a real customer question in the store. Opinions, not rules. Comment TIER and Zenix will send you the guide."
+
+**Guide to send:** a one-page post-type cheat sheet. Invite disagreement: "What would you move?" in the caption.
+
+### 6. COMPARE (poster A vs B)
+
+**Hook:** "Same store. Same deals. Two posters. Which one wins?"
+**Graphic:** poster A and poster B side by side, built in a design tool with exact text.
+
+**Script:**
+"Same store, same deals, two posters. Poster A has twenty offers. Poster B has one hero deal and two supporting ones. Look at both for two seconds. Which one can you remember? That is the test, and I would bet on B. Comment A or B. Then comment POSTER and Zenix will send you the template."
+
+### 7. CHECK (curiosity list)
+
+**Hook:** "Three things I check first in any supermarket's marketing. Number three is the one everyone skips."
+**Graphic:** a three-line list; the third line stays blurred until the reveal.
+
+**Script:**
+"Three things I check first in any supermarket's marketing. Number three is the one everyone skips. One: what is this week's offer, in one sentence? Two: can a shopper find your hours on Google in ten seconds? Three: what happens after someone messages you? If you have no answer to three, start there. Comment CHECK and Zenix will send you the guide."
+
+### 8. MISTAKES (common mistakes)
+
+**Hook:** "Three Google profile mistakes that can send shoppers to your competitor."
+**Graphic:** a real screen recording of a business profile, with each mistake highlighted.
+
+**Script:**
+"Three Google profile mistakes that can send shoppers to your competitor. One: holiday hours that were never updated. Two: the wrong category, so you show up for the wrong searches. Three: photos from years ago. Fix all three in five minutes. Comment MAP and Zenix will send you the guide."
+
+### 9. ASK (Q&A template)
+
+**Hook:** "A store owner asked me: should I boost my posts?"
+**Graphic:** the real question on screen, anonymised.
+
+**Script:**
+"A store owner asked me: should I boost my posts? Short answer: sometimes. Boost a post that already gets saves and comments, with one clear offer and one action. Do not boost a post nobody reacted to. Boosting makes a post louder, not better. Got a question like this? Comment ASK and we will answer yours."
+
+**Note:** this keyword collects questions for the next Q&A reel. Replace the sample question with a real one before filming.
+
+### 10. REACT (reaction template)
+
+**Hook:** "A store owner sent me this flyer. Here is my honest reaction."
+**Graphic:** the real flyer with permission, blurred where needed.
+
+**Script structure:** first reaction (what works, one line), the biggest problem (one line), one fix (one line), then "Comment REACT and send us yours." Write it after you have a real flyer.
 
 ## Production approach
 
