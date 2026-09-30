@@ -11,7 +11,7 @@ Status: draft for CEO and owner approval. Each script is about 30 seconds (61 to
 **CTA keyword:** PAGE
 
 **Full spoken script:**
-"You wouldn't hide the milk in the basement. Your landing page does. Someone clicked your ad for one offer, and now they're hunting through banners to find it. If the deal isn't obvious, they leave. Put your ad's exact offer at the top. Add the price, one reason to trust you, and one clear button. Comment the word PAGE and Zenix will send you the guide."
+"You wouldn't hide the milk in the basement. Your landing page does. Someone clicked your ad for one offer, and now they're hunting through banners to find it. If the deal isn't obvious, they leave. Put your ad's exact offer at the top. Add the price, one reason to trust you, and one clear button. Comment PAGE and Zenix will send you the guide."
 
 ---
 
@@ -22,7 +22,7 @@ Status: draft for CEO and owner approval. Each script is about 30 seconds (61 to
 **CTA keyword:** GROW
 
 **Full spoken script:**
-"Nobody follows a megaphone. If your supermarket's page only shouts buy now, why would anyone stay? Three posts, same pitch, nothing to answer, nothing to save, nothing to share. Answer one real customer question in every sales post. Show how a product is used, or let your team speak. Then connect that post to a sale. Comment the word GROW and Zenix will send you the guide."
+"Nobody follows a megaphone. If your supermarket's page only shouts buy now, why would anyone stay? Three posts, same pitch, nothing to answer, nothing to save, nothing to share. Answer one real customer question in every sales post. Show how a product is used, or let your team speak. Then connect that post to a sale. Comment GROW and Zenix will send you the guide."
 
 ---
 
@@ -33,7 +33,7 @@ Status: draft for CEO and owner approval. Each script is about 30 seconds (61 to
 **CTA keyword:** STORE
 
 **Full spoken script:**
-"Four hundred percent. That's not a typo. Khaamar Baari Supermarket achieved four hundred percent revenue growth in one year while working with Zenix. Specific proof builds trust, and a specific offer does too. Lead with your strongest deal. Show the price and where to find the store, in one short video. Then make sure your Google listing matches. Comment the word STORE and Zenix will send you the guide."
+"Four hundred percent. That's not a typo. Khaamar Baari Supermarket achieved four hundred percent revenue growth in one year while working with Zenix. Specific proof builds trust, and a specific offer does too. Lead with your strongest deal. Show the price and where to find the store, in one short video. Then make sure your Google listing matches. Comment STORE and Zenix will send you the guide."
 
 Proof note: the approved sentence is spoken unchanged. Add no other figures. The tips are general advice, not a claim about what was done for the client.
 
@@ -46,7 +46,7 @@ Proof note: the approved sentence is spoken unchanged. Add no other figures. The
 **CTA keyword:** MAP
 
 **Full spoken script:**
-"Your store sign says open. Google says closed. Guess who shoppers believe. Some won't call to check. They'll just go elsewhere. Nearby shoppers can be gone before they ever reach your door. Check today's hours, then weekends and holidays. Test your phone number, directions, and photos on a customer's phone. Comment the word MAP and Zenix will send you the guide."
+"Your store sign says open. Google says closed. Guess who shoppers believe. Some won't call to check. They'll just go elsewhere. Nearby shoppers can be gone before they ever reach your door. Check today's hours, then weekends and holidays. Test your phone number, directions, and photos on a customer's phone. Comment MAP and Zenix will send you the guide."
 
 ---
 
@@ -57,7 +57,7 @@ Proof note: the approved sentence is spoken unchanged. Add no other figures. The
 **CTA keyword:** PLAN
 
 **Full spoken script:**
-"The Boost button doesn't make a post better. Just louder. So before you press it, answer one thing: what should a stranger do next? Visit, call, or message? If you can't name it, you're paying to show a vague post to more strangers. Pick one offer, one audience, one action. Put the offer first. Comment the word PLAN and Zenix will send you the guide."
+"The Boost button doesn't make a post better. Just louder. So before you press it, answer one thing: what should a stranger do next? Visit, call, or message? If you can't name it, you're paying to show a vague post to more strangers. Pick one offer, one audience, one action. Put the offer first. Comment PLAN and Zenix will send you the guide."
 
 ---
 
