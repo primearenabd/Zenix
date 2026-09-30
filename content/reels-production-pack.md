@@ -75,16 +75,16 @@ Honest expectation: 10 finished reels in two hours is possible only if few clips
 **Full script:**
 "Your store sign says open. Google says closed. Guess who shoppers believe. Some won't call to check. They'll just go elsewhere. Nearby shoppers can be gone before they ever reach your door. Check today's hours, then weekends and holidays. Test your phone number, directions, and photos on a customer's phone. DM the word MAP and Zenix will review your local listing."
 
-**On-screen (edit):** storefront cutaway with a lit open sign at 0 to 1.8s; generic "Closed" listing mockup; end card: HOURS, WEEKENDS, HOLIDAYS, PHONE, DIRECTIONS, PHOTOS.
+**On-screen (edit):** storefront cutaway with a lit open sign at 0 to 1.8s; end card: HOURS, WEEKENDS, HOLIDAYS, PHONE, DIRECTIONS, PHOTOS. The "CLOSED" listing is already in the first-frame image (generic map listing, no Google logo, no real store). If the word distorts when the phone moves, cover it with a clean "CLOSED" overlay in the edit.
 
-**First-frame image prompt:**
-> Edit the armchair reference: he sits in the armchair holding a smartphone beside his face in his right hand, screen facing the lens and showing a plain glowing blank screen. No notebook or pen. Chalkboard behind him. Deadpan, one eyebrow slightly raised.
+**First frame (already created):** the armchair image where he holds a smartphone at chest height showing a generic map listing with a storefront photo and a red CLOSED label, his other index finger pointing at the screen, deadpan, chalkboard behind him. Use it as is. If you need to regenerate it, use this prompt:
+> Edit the armchair reference: he sits in the armchair holding a smartphone at chest height in one hand, screen facing the lens showing a generic map listing with a small storefront photo, a map pin and a red CLOSED label, no logos and no real store name. His other index finger points at the screen. No notebook or pen. Chalkboard behind him. Deadpan, looking into the lens.
 
 **Clip 1 (10s, image-to-video)**
 ```
-First frame: the uploaded image. The man sits in a green armchair in front of a chalkboard in a warm study, a smartphone held beside his face.
+First frame: the uploaded image. The man sits in a green armchair in front of a chalkboard in a warm study, holding a smartphone at chest height showing a map listing with a red CLOSED label, his other index finger pointing at the screen. Keep the phone screen exactly as in the image and hold the phone still.
 0-1.8s SHOT 1 (A-roll, medium shot): deadpan, looking into the lens, he says: "Your store sign says open."
-1.8-3.2s SHOT 2 (A-roll, tight close-up on the phone and his face): he taps the phone twice and says: "Google says closed."
+1.8-3.2s SHOT 2 (A-roll, tight close-up on the phone and his pointing finger): he taps the screen twice with his index finger and says: "Google says closed."
 3.2-5s SHOT 3 (A-roll, medium shot, slight low angle): he lifts his eyebrows and tilts his head at the phone: "Guess who shoppers believe."
 5-7.5s SHOT 4 (B-roll): a shopper glances at a phone outside a storefront, frowns. His voice continues: "Some won't call to check."
 7.5-10s SHOT 5 (B-roll): the same shopper turns and walks away down the street at dusk. His voice continues: "They'll just go elsewhere."
