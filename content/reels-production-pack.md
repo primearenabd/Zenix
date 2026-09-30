@@ -73,7 +73,7 @@ Honest expectation: 10 finished reels in two hours is possible only if few clips
 **HOOK VISUAL:** He holds a phone beside his face, taps it twice on "Google says closed", then lifts his eyebrows and tilts his head at the phone on "Guess who shoppers believe".
 
 **Full script:**
-"Your store sign says open. Google says closed. Guess who shoppers believe. Some won't call to check. They'll just go elsewhere. Nearby shoppers can be gone before they ever reach your door. Check today's hours, then weekends and holidays. Test your phone number, directions, and photos on a customer's phone. DM the word MAP and Zenix will review your local listing."
+"Your store sign says open. Google says closed. Guess who shoppers believe. Some won't call to check. They'll just go elsewhere. Nearby shoppers can be gone before they ever reach your door. Check today's hours, then weekends and holidays. Test your phone number, directions, and photos on a customer's phone. Comment the word MAP and Zenix will send you the guide."
 
 **On-screen (edit):** storefront cutaway with a lit open sign at 0 to 1.8s; end card: HOURS, WEEKENDS, HOLIDAYS, PHONE, DIRECTIONS, PHOTOS. The "CLOSED" listing is already in the first-frame image (generic map listing, no Google logo, no real store). If the word distorts when the phone moves, cover it with a clean "CLOSED" overlay in the edit.
 
@@ -102,8 +102,8 @@ Extend the previous clip by 10 seconds. Same man, same armchair, same voice.
 ```
 Extend the previous clip by 10 seconds. Same man, same armchair, same voice.
 0-4s SHOT 1 (B-roll): a hand holding a phone over a generic business listing, tapping the call, directions and photos icons in turn, all text unreadable. His voice continues: "Test your phone number, directions, and photos on a customer's phone."
-4-7s SHOT 2 (A-roll, medium shot): back to the man, straight to camera: "DM the word MAP"
-7-10s SHOT 3 (A-roll, close-up): he smiles slightly: "and Zenix will review your local listing." Hold still for the final second.
+4-7s SHOT 2 (A-roll, medium shot): back to the man, straight to camera: "Comment the word MAP"
+7-10s SHOT 3 (A-roll, close-up): he smiles slightly: "and Zenix will send you the guide." Hold still for the final second.
 ```
 
 ---
@@ -116,7 +116,7 @@ Extend the previous clip by 10 seconds. Same man, same armchair, same voice.
 **HOOK VISUAL:** He leans in with one hand flat on the table, taps the table once and points to the side on "not a typo". The "400%" count-up (0 to 400%) is added in the edit in the clean wall space, present from the first frame.
 
 **Full script:**
-"Four hundred percent. That's not a typo. Khaamar Baari Supermarket achieved four hundred percent revenue growth in one year while working with Zenix. Specific proof builds trust, and a specific offer does too. Lead with your strongest deal. Show the price and where to find the store, in one short video. Then make sure your Google listing matches. DM the word STORE and Zenix will review your supermarket marketing."
+"Four hundred percent. That's not a typo. Khaamar Baari Supermarket achieved four hundred percent revenue growth in one year while working with Zenix. Specific proof builds trust, and a specific offer does too. Lead with your strongest deal. Show the price and where to find the store, in one short video. Then make sure your Google listing matches. Comment the word STORE and Zenix will send you the guide."
 
 **Proof rules:** The approved sentence is spoken unchanged. No other figures. Do not say Zenix alone caused the growth. The tips are general advice, not a description of what was done for the client. Generic b-roll is never labelled as Khaamar Baari. Use real client footage only with their approval, only on the segment naming them.
 
@@ -145,8 +145,8 @@ Extend the previous clip by 10 seconds. Same man, same office, same voice.
 Extend the previous clip by 10 seconds. Same man, same office, same voice.
 0-1.5s SHOT 1 (B-roll): the phone video continues, close-up. His voice continues: "in one short video."
 1.5-4.5s SHOT 2 (B-roll): a phone showing a generic business listing with a map pin and opening hours, text unreadable. His voice continues: "Then make sure your Google listing matches."
-4.5-7.5s SHOT 3 (A-roll, medium shot): back to the man, hands clasped, straight to camera: "DM the word STORE"
-7.5-10s SHOT 4 (A-roll, close-up): calm and inviting: "and Zenix will review your supermarket marketing." Hold still for the final second.
+4.5-7.5s SHOT 3 (A-roll, medium shot): back to the man, hands clasped, straight to camera: "Comment the word STORE"
+7.5-10s SHOT 4 (A-roll, close-up): calm and inviting: "and Zenix will send you the guide." Hold still for the final second.
 ```
 
 ---
@@ -159,7 +159,7 @@ Extend the previous clip by 10 seconds. Same man, same office, same voice.
 **HOOK VISUAL:** He taps the chalkboard behind him seven times with his pen while looking at the camera.
 
 **Full script:**
-"Steal this seven-day content plan for your supermarket. Monday, show what just arrived. Tuesday, your hero deal. Wednesday, answer a customer question. Thursday, introduce a team member. Friday, a weekend bundle. Saturday, your hours and location. Sunday, one simple recipe. This is a starter plan, not a rule. Save this. DM the word GROW and Zenix will review your content."
+"Steal this seven-day content plan for your supermarket. Monday, show what just arrived. Tuesday, your hero deal. Wednesday, answer a customer question. Thursday, introduce a team member. Friday, a weekend bundle. Saturday, your hours and location. Sunday, one simple recipe. This is a starter plan, not a rule. Save this. Comment the word GROW and Zenix will send you the guide."
 
 **On-screen (edit):** a clean 7-day list card that stays up for the last 2 seconds so people can screenshot it: MON new arrivals, TUE hero deal, WED customer question, THU team member, FRI weekend bundle, SAT hours and location, SUN simple recipe. Day labels pop in on each spoken day.
 
@@ -189,8 +189,8 @@ Extend the previous clip by 10 seconds. Same man, same armchair, same voice.
 Extend the previous clip by 10 seconds. Same man, same armchair, same voice.
 0-3s SHOT 1 (A-roll, medium shot): he sits back, relaxed: "This is a starter plan, not a rule."
 3-5s SHOT 2 (B-roll): overhead shot of a blank weekly calendar on a desk and a hand placing seven sticky notes in a row. His voice continues: "Save this."
-5-8s SHOT 3 (A-roll, medium shot): straight to camera: "DM the word GROW"
-8-10s SHOT 4 (A-roll, close-up): "and Zenix will review your content." Hold still for the final second.
+5-8s SHOT 3 (A-roll, medium shot): straight to camera: "Comment the word GROW"
+8-10s SHOT 4 (A-roll, close-up): "and Zenix will send you the guide." Hold still for the final second.
 ```
 
 ---
@@ -203,7 +203,7 @@ Extend the previous clip by 10 seconds. Same man, same armchair, same voice.
 **HOOK VISUAL:** He shakes his head slowly on "better", then taps a glowing button on his phone on "louder". Edit: a volume swell rising on "louder". BOOST label added in the edit.
 
 **Full script:**
-"The Boost button doesn't make a post better. Just louder. Before you press it: what should a stranger do next? Visit, call, or message? If you can't name it, you're paying to show a vague post to more strangers. Pick one offer, one audience, one action. Put the offer first. DM the word PLAN and Zenix will review it before you spend. Then boost it."
+"The Boost button doesn't make a post better. Just louder. Before you press it: what should a stranger do next? Visit, call, or message? If you can't name it, you're paying to show a vague post to more strangers. Pick one offer, one audience, one action. Put the offer first. Comment the word PLAN and Zenix will send you the guide. Then boost it."
 
 **First-frame image prompt:**
 > Edit the armchair reference to a wider framing showing the armchair, chalkboard and side table: he holds a smartphone at chest height in both hands, screen facing the lens, with a soft glowing orange circle on it and no text. No notebook. Deadpan look.
@@ -230,7 +230,7 @@ Extend the previous clip by 10 seconds. Same man, same armchair, same voice.
 ```
 Extend the previous clip by 10 seconds. Same man, same armchair, same voice.
 0-2s SHOT 1 (B-roll): close-up of the pen circling the first line in the notebook. His voice continues: "Put the offer first."
-2-6.5s SHOT 2 (A-roll, medium shot): back to the man, straight to camera: "DM the word PLAN and Zenix will review it before you spend."
+2-6.5s SHOT 2 (A-roll, medium shot): back to the man, straight to camera: "Comment the word PLAN and Zenix will send you the guide."
 6.5-10s SHOT 3 (A-roll, close-up): he smiles and taps his phone with his thumb: "Then boost it." Hold still for the final second.
 ```
 
@@ -244,7 +244,7 @@ Extend the previous clip by 10 seconds. Same man, same armchair, same voice.
 **HOOK VISUAL:** He holds a clipboard with blank checklist lines, clicks a pen and ticks the first box on "takeoff".
 
 **Full script:**
-"Pilots run a checklist before takeoff. Run one before you spend on ads. One: can you track a call, a booking, or a sale? Two: does the ad promise one clear offer? Three: does the landing page match that offer? Four: is your audience close enough to visit? Any no? Fix it first. Save this. DM the word PLAN and Zenix will review yours."
+"Pilots run a checklist before takeoff. Run one before you spend on ads. One: can you track a call, a booking, or a sale? Two: does the ad promise one clear offer? Three: does the landing page match that offer? Four: is your audience close enough to visit? Any no? Fix it first. Save this. Comment the word PLAN and Zenix will send you the guide."
 
 **On-screen (edit):** a checklist card that ticks each item as it is spoken: 1 TRACKING, 2 ONE CLEAR OFFER, 3 PAGE MATCHES AD, 4 AUDIENCE NEARBY. Hold the full card for the last 2 seconds for screenshots.
 
@@ -273,8 +273,8 @@ Extend the previous clip by 10 seconds. Same man, same office, same voice.
 Extend the previous clip by 10 seconds. Same man, same office, same voice.
 0-2.5s SHOT 1 (A-roll, close-up): he shakes his head once: "Any no? Fix it first."
 2.5-4s SHOT 2 (B-roll): a hand sliding the clipboard across the marble table toward the camera. His voice continues: "Save this."
-4-7s SHOT 3 (A-roll, medium shot): straight to camera: "DM the word PLAN"
-7-10s SHOT 4 (A-roll, close-up): he ticks the last box and smiles: "and Zenix will review yours." Hold still for the final second.
+4-7s SHOT 3 (A-roll, medium shot): straight to camera: "Comment the word PLAN"
+7-10s SHOT 4 (A-roll, close-up): he ticks the last box and smiles: "and Zenix will send you the guide." Hold still for the final second.
 ```
 
 ---
@@ -287,7 +287,7 @@ Extend the previous clip by 10 seconds. Same man, same office, same voice.
 **HOOK VISUAL:** He picks up a plain milk carton on "milk", lowers it out of frame below the table on "basement", then looks into camera with one raised eyebrow on "Your landing page does". Edit: small thud when it drops.
 
 **Full script:**
-"You wouldn't hide the milk in the basement. Your landing page does. Someone clicked your ad for one offer, and now they're hunting through banners. If the deal isn't obvious, they leave. Put your ad's exact offer at the top, with the price and one reason to trust you. Then give them one clear button. DM the word PAGE and Zenix will check your ad and page together."
+"You wouldn't hide the milk in the basement. Your landing page does. Someone clicked your ad for one offer, and now they're hunting through banners. If the deal isn't obvious, they leave. Put your ad's exact offer at the top, with the price and one reason to trust you. Then give them one clear button. Comment the word PAGE and Zenix will send you the guide."
 
 **First-frame image prompt:**
 > Edit the office reference: the man sits upright at the marble table looking straight into the lens. His right hand rests on a plain, unbranded white milk carton standing on the table. The green folder sits closed to his left. Calm, composed, about to speak.
@@ -313,7 +313,7 @@ Extend the previous clip by 10 seconds. Same man, same office, same voice.
 ```
 Extend the previous clip by 10 seconds. Same man, same office, same voice.
 0-3s SHOT 1 (B-roll): a finger tapping a large green button on a clean generic page on a phone. His voice continues: "Then give them one clear button."
-3-7s SHOT 2 (A-roll, medium shot): back to the man, straight to camera: "DM the word PAGE and Zenix will check your ad and page together."
+3-7s SHOT 2 (A-roll, medium shot): back to the man, straight to camera: "Comment the word PAGE and Zenix will send you the guide."
 7-10s SHOT 3 (A-roll, close-up): he smiles slightly, holding still for the final second.
 ```
 
@@ -327,7 +327,7 @@ Extend the previous clip by 10 seconds. Same man, same office, same voice.
 **HOOK VISUAL:** He holds a phone up as if filming the viewer, then lowers it and looks into the lens.
 
 **Full script:**
-"Your supermarket does not need a video team. Film these three reels. One: pick the best item on the shelf, and say why. Two: show one deal with the price and the aisle. Three: answer a customer question standing in the store. Keep each under thirty seconds. Save this list. DM the word STORE and Zenix will review your supermarket marketing."
+"Your supermarket does not need a video team. Film these three reels. One: pick the best item on the shelf, and say why. Two: show one deal with the price and the aisle. Three: answer a customer question standing in the store. Keep each under thirty seconds. Save this list. Comment the word STORE and Zenix will send you the guide."
 
 **On-screen (edit):** list card for screenshots: 1 BEST ITEM AND WHY, 2 ONE DEAL, PRICE, AISLE, 3 A CUSTOMER QUESTION, UNDER 30 SECONDS.
 
@@ -356,21 +356,21 @@ Extend the previous clip by 10 seconds. Same man, same couch, same voice.
 Extend the previous clip by 10 seconds. Same man, same couch, same voice.
 0-2.5s SHOT 1 (A-roll, close-up): "Keep each under thirty seconds."
 2.5-4.3s SHOT 2 (B-roll): a phone recording with a generic timer icon in the corner. His voice continues: "Save this list."
-4.3-7.3s SHOT 3 (A-roll, medium shot): straight to camera: "DM the word STORE"
-7.3-10s SHOT 4 (A-roll, close-up): "and Zenix will review your supermarket marketing." Hold still for the final second.
+4.3-7.3s SHOT 3 (A-roll, medium shot): straight to camera: "Comment the word STORE"
+7.3-10s SHOT 4 (A-roll, close-up): "and Zenix will send you the guide." Hold still for the final second.
 ```
 
 ---
 
 # Reel 8: REPLY
 
-**Topic:** One automatic DM reply with a human handoff
+**Topic:** One automatic DM reply with a human handoff (the reel's comment keyword is REPLY)
 **Studio:** Office | **Keyword:** REPLY
 **HOOK (spoken):** "Your DMs are a cash register nobody is standing at."
 **HOOK VISUAL:** A silver desk service bell sits on the table. He taps it on "cash register", taps it again on "nobody", then looks into the lens and waits. Edit: two bell dings.
 
 **Full script:**
-"Your DMs are a cash register nobody is standing at. A shopper asks your hours, and waits. Set one automatic reply that does three things. Say thanks. Answer the top three questions: hours, location, and offers. Offer a human for everything else. Test it from a customer's phone. Automation handles the routine. People handle the rest. Save this template. DM the word REPLY and Zenix will review your setup."
+"Your DMs are a cash register nobody is standing at. A shopper asks your hours, and waits. Set one automatic reply that does three things. Say thanks. Answer the top three questions: hours, location, and offers. Offer a human for everything else. Test it from a customer's phone. Automation handles the routine. People handle the rest. Save this template. Comment the word REPLY and Zenix will send you the guide."
 
 **On-screen (edit):** template card for screenshots: 1 THANK THEM, 2 HOURS, LOCATION, OFFERS, 3 OFFER A HUMAN. Use no real customer data anywhere.
 
@@ -399,8 +399,8 @@ Extend the previous clip by 10 seconds. Same man, same office, same voice.
 Extend the previous clip by 10 seconds. Same man, same office, same voice.
 0-4s SHOT 1 (A-roll, close-up): "Automation handles the routine. People handle the rest."
 4-5.3s SHOT 2 (B-roll): a hand sliding a blank template card across the marble table. His voice continues: "Save this template."
-5.3-8.3s SHOT 3 (A-roll, medium shot): straight to camera: "DM the word REPLY"
-8.3-10s SHOT 4 (A-roll, close-up): "and Zenix will review your setup." He taps the bell once and smiles. Hold still for the final second.
+5.3-8.3s SHOT 3 (A-roll, medium shot): straight to camera: "Comment the word REPLY"
+8.3-10s SHOT 4 (A-roll, close-up): "and Zenix will send you the guide." He taps the bell once and smiles. Hold still for the final second.
 ```
 
 ---
@@ -413,7 +413,7 @@ Extend the previous clip by 10 seconds. Same man, same office, same voice.
 **HOOK VISUAL:** He holds a busy generic supermarket poster beside his face and squints dramatically at it, then slowly lowers it to look into the lens with a raised eyebrow.
 
 **Full script:**
-"Squint at your weekly poster. If the deal disappears, shoppers might miss it too. This is the squint test. It takes five seconds. Blur your eyes and look for three things. The hero deal, the price, and the store name. If any one vanishes, it is too small. Make that one bigger, then test it on your phone. Save this for your next poster. DM the word POSTER and Zenix will review yours."
+"Squint at your weekly poster. If the deal disappears, shoppers might miss it too. This is the squint test. It takes five seconds. Blur your eyes and look for three things. The hero deal, the price, and the store name. If any one vanishes, it is too small. Make that one bigger, then test it on your phone. Save this for your next poster. Comment the word POSTER and Zenix will send you the guide."
 
 **On-screen (edit):** end card for screenshots: SQUINT TEST, 1 HERO DEAL, 2 PRICE, 3 STORE NAME. Highlight boxes appear over the blurred poster.
 
@@ -442,7 +442,7 @@ Extend the previous clip by 10 seconds. Same man, same couch, same voice.
 Extend the previous clip by 10 seconds. Same man, same couch, same voice.
 0-3.8s SHOT 1 (A-roll, medium shot): he holds up a phone: "Make that one bigger, then test it on your phone."
 3.8-6s SHOT 2 (B-roll): a hand holding a phone showing a blurred clean poster with one big deal. His voice continues: "Save this for your next poster."
-6-10s SHOT 3 (A-roll, close-up): straight to camera: "DM the word POSTER and Zenix will review yours." Hold still for the final second.
+6-10s SHOT 3 (A-roll, close-up): straight to camera: "Comment the word POSTER and Zenix will send you the guide." Hold still for the final second.
 ```
 
 ---
@@ -455,7 +455,7 @@ Extend the previous clip by 10 seconds. Same man, same couch, same voice.
 **HOOK VISUAL:** He brings a toy megaphone toward his mouth, stops, says nothing, lowers it and sets it aside, then delivers the line deadpan. The megaphone makes no sound.
 
 **Full script:**
-"Nobody follows a megaphone. If your supermarket's page only shouts buy now, why would anyone stay? Three posts, same pitch, nothing to answer, nothing to save, nothing to share. Answer one real customer question in every sales post. Show how a product is used, or let your team speak. Then connect that post to a sale. DM the word GROW and Zenix will review your content."
+"Nobody follows a megaphone. If your supermarket's page only shouts buy now, why would anyone stay? Three posts, same pitch, nothing to answer, nothing to save, nothing to share. Answer one real customer question in every sales post. Show how a product is used, or let your team speak. Then connect that post to a sale. Comment the word GROW and Zenix will send you the guide."
 
 **First frames:** you already have two: the megaphone frame (use for clip 1) and the three-card frame. In this 10-second version the cards appear at the end of clip 1, so you only need the megaphone frame. If the megaphone to cards swap looks wrong, generate the cards beat from your card frame as a separate 4-second clip and cut it in.
 
@@ -482,8 +482,8 @@ Extend the previous clip by 10 seconds. Same man, same couch, same voice.
 Extend the previous clip by 10 seconds. Same man, same couch, same voice.
 0-2.2s SHOT 1 (B-roll): a friendly store employee talking to camera in a produce aisle, soft focus. His voice continues: "or let your team speak."
 2.2-5s SHOT 2 (A-roll, medium shot): back to the man: "Then connect that post to a sale."
-5-7.5s SHOT 3 (A-roll, medium shot): straight to camera: "DM the word GROW"
-7.5-10s SHOT 4 (A-roll, close-up): "and Zenix will review your content." He smiles slightly. Hold still for the final second.
+5-7.5s SHOT 3 (A-roll, medium shot): straight to camera: "Comment the word GROW"
+7.5-10s SHOT 4 (A-roll, close-up): "and Zenix will send you the guide." He smiles slightly. Hold still for the final second.
 ```
 
 ---
@@ -496,7 +496,7 @@ Extend the previous clip by 10 seconds. Same man, same couch, same voice.
 4. All readable text (captions, list cards, the 400% graphic, BOOST, Closed, template cards) goes on in the edit, never in the video model.
 5. Omni's voice may differ between reels. If it drifts inside a reel, record one clean voiceover of that reel's script and replace the audio in the edit.
 6. Turn on Instagram's AI disclosure when posting. Do not publish without the owner's approval.
-7. Each review offer (PAGE, GROW, STORE, MAP, PLAN, REPLY, POSTER) needs a weekly cap and an owner before it is promised on camera.
+7. Each comment keyword (PAGE, GROW, STORE, MAP, PLAN, REPLY, POSTER) needs a finished guide and a reply ready (a comment-to-DM automation or a manual reply) before the reel goes live. Decide the owner for each guide.
 
 ## 6. Fallbacks
 - Extend unavailable: use last frame as the next first frame (see section 1).

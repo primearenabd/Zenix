@@ -47,7 +47,7 @@ Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery
 
 **Full script:**
 
-> "Your store sign says open. Google says closed. Guess who shoppers believe. Some won't call to check. They'll just go elsewhere. Nearby shoppers can be gone before they ever reach your door. Check today's hours, then weekends and holidays. Test your phone number, directions, and photos on a customer's phone. DM the word MAP and Zenix will review your local listing."
+> "Your store sign says open. Google says closed. Guess who shoppers believe. Some won't call to check. They'll just go elsewhere. Nearby shoppers can be gone before they ever reach your door. Check today's hours, then weekends and holidays. Test your phone number, directions, and photos on a customer's phone. Comment the word MAP and Zenix will send you the guide."
 
 Studio: armchair.
 
@@ -91,8 +91,8 @@ Edit @presenter-armchair: he sits back relaxed with his hands resting on the arm
 Start exactly from the attached image. Keep the man, his pose, the framing, lighting, colors, background and any props exactly as in the image for the first A-roll shot, and do not redescribe or restyle them. He keeps looking at the camera unless a shot says otherwise.
 0-1.6s SHOT 1 (A-roll, medium shot): he looks into the lens and says: "Test your phone number,"
 1.6-4s SHOT 2 (B-roll): a hand holding a phone over a generic business listing, tapping the call, directions and photos icons in turn, all text unreadable. His voice continues: "directions, and photos on a customer's phone."
-4-7s SHOT 3 (A-roll, medium shot): back to the man, straight to camera: "DM the word MAP"
-7-10s SHOT 4 (A-roll, close-up): he smiles slightly: "and Zenix will review your local listing." Hold still for the final second.
+4-7s SHOT 3 (A-roll, medium shot): back to the man, straight to camera: "Comment the word MAP"
+7-10s SHOT 4 (A-roll, close-up): he smiles slightly: "and Zenix will send you the guide." Hold still for the final second.
 Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery, the same voice in every clip. Lips match speech. No music.
 Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no readable text. B-roll shots are realistic and match the warm look of the A-roll.
 ```
@@ -107,7 +107,7 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 **Full script:**
 
-> "Four hundred percent. That's not a typo. Khaamar Baari Supermarket achieved four hundred percent revenue growth in one year while working with Zenix. Specific proof builds trust, and a specific offer does too. Lead with your strongest deal. Show the price and where to find the store, in one short video. Then make sure your Google listing matches. DM the word STORE and Zenix will review your supermarket marketing."
+> "Four hundred percent. That's not a typo. Khaamar Baari Supermarket achieved four hundred percent revenue growth in one year while working with Zenix. Specific proof builds trust, and a specific offer does too. Lead with your strongest deal. Show the price and where to find the store, in one short video. Then make sure your Google listing matches. Comment the word STORE and Zenix will send you the guide."
 
 Studio: office.
 
@@ -149,8 +149,8 @@ Edit @presenter-office: both hands flat on the marble table, leaning slightly fo
 Start exactly from the attached image. Keep the man, his pose, the framing, lighting, colors, background and any props exactly as in the image for the first A-roll shot, and do not redescribe or restyle them. He keeps looking at the camera unless a shot says otherwise.
 0-1.5s SHOT 1 (A-roll, close-up): he looks into the lens and says: "in one short video."
 1.5-4.5s SHOT 2 (B-roll): a phone showing a generic business listing with a map pin and opening hours, text unreadable. His voice continues: "Then make sure your Google listing matches."
-4.5-7.5s SHOT 3 (A-roll, medium shot): back to the man, hands clasped, straight to camera: "DM the word STORE"
-7.5-10s SHOT 4 (A-roll, close-up): calm and inviting: "and Zenix will review your supermarket marketing." Hold still for the final second.
+4.5-7.5s SHOT 3 (A-roll, medium shot): back to the man, hands clasped, straight to camera: "Comment the word STORE"
+7.5-10s SHOT 4 (A-roll, close-up): calm and inviting: "and Zenix will send you the guide." Hold still for the final second.
 Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery, the same voice in every clip. Lips match speech. No music.
 Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no readable text. B-roll shots are realistic and match the warm look of the A-roll.
 ```
@@ -165,7 +165,7 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 **Full script:**
 
-> "Steal this seven-day content plan for your supermarket. Monday, show what just arrived. Tuesday, your hero deal. Wednesday, answer a customer question. Thursday, introduce a team member. Friday, a weekend bundle. Saturday, your hours and location. Sunday, one simple recipe. This is a starter plan, not a rule. Save this. DM the word GROW and Zenix will review your content."
+> "Steal this seven-day content plan for your supermarket. Monday, show what just arrived. Tuesday, your hero deal. Wednesday, answer a customer question. Thursday, introduce a team member. Friday, a weekend bundle. Saturday, your hours and location. Sunday, one simple recipe. This is a starter plan, not a rule. Save this. Comment the word GROW and Zenix will send you the guide."
 
 Studio: armchair.
 
@@ -208,8 +208,8 @@ Edit @presenter-armchair: he sits back with his hands on the armchair arms, slig
 Start exactly from the attached image. Keep the man, his pose, the framing, lighting, colors, background and any props exactly as in the image for the first A-roll shot, and do not redescribe or restyle them. He keeps looking at the camera unless a shot says otherwise.
 0-3s SHOT 1 (A-roll, medium shot): he sits back, relaxed: "This is a starter plan, not a rule."
 3-5s SHOT 2 (B-roll): overhead shot of a blank weekly calendar on a desk and a hand placing seven sticky notes in a row. His voice continues: "Save this."
-5-8s SHOT 3 (A-roll, medium shot): straight to camera: "DM the word GROW"
-8-10s SHOT 4 (A-roll, close-up): "and Zenix will review your content." Hold still for the final second.
+5-8s SHOT 3 (A-roll, medium shot): straight to camera: "Comment the word GROW"
+8-10s SHOT 4 (A-roll, close-up): "and Zenix will send you the guide." Hold still for the final second.
 Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery, the same voice in every clip. Lips match speech. No music.
 Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no readable text. B-roll shots are realistic and match the warm look of the A-roll.
 ```
@@ -224,7 +224,7 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 **Full script:**
 
-> "The Boost button doesn't make a post better. Just louder. Before you press it: what should a stranger do next? Visit, call, or message? If you can't name it, you're paying to show a vague post to more strangers. Pick one offer, one audience, one action. Put the offer first. DM the word PLAN and Zenix will review it before you spend. Then boost it."
+> "The Boost button doesn't make a post better. Just louder. Before you press it: what should a stranger do next? Visit, call, or message? If you can't name it, you're paying to show a vague post to more strangers. Pick one offer, one audience, one action. Put the offer first. Comment the word PLAN and Zenix will send you the guide. Then boost it."
 
 Studio: armchair.
 
@@ -266,7 +266,7 @@ Edit @presenter-armchair: the notebook closed on his lap, pen in hand, relaxed w
 ```
 Start exactly from the attached image. Keep the man, his pose, the framing, lighting, colors, background and any props exactly as in the image for the first A-roll shot, and do not redescribe or restyle them. He keeps looking at the camera unless a shot says otherwise.
 0-2s SHOT 1 (A-roll, close-up): he looks into the lens and says: "Put the offer first."
-2-6.5s SHOT 2 (A-roll, medium shot): back to the man, straight to camera: "DM the word PLAN and Zenix will review it before you spend."
+2-6.5s SHOT 2 (A-roll, medium shot): back to the man, straight to camera: "Comment the word PLAN and Zenix will send you the guide."
 6.5-10s SHOT 3 (A-roll, close-up): he smiles and taps his phone with his thumb: "Then boost it." Hold still for the final second.
 Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery, the same voice in every clip. Lips match speech. No music.
 Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no readable text. B-roll shots are realistic and match the warm look of the A-roll.
@@ -282,7 +282,7 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 **Full script:**
 
-> "Pilots run a checklist before takeoff. Run one before you spend on ads. One: can you track a call, a booking, or a sale? Two: does the ad promise one clear offer? Three: does the landing page match that offer? Four: is your audience close enough to visit? Any no? Fix it first. Save this. DM the word PLAN and Zenix will review yours."
+> "Pilots run a checklist before takeoff. Run one before you spend on ads. One: can you track a call, a booking, or a sale? Two: does the ad promise one clear offer? Three: does the landing page match that offer? Four: is your audience close enough to visit? Any no? Fix it first. Save this. Comment the word PLAN and Zenix will send you the guide."
 
 Studio: office.
 
@@ -325,8 +325,8 @@ Edit @presenter-office: the clipboard resting on the marble table in front of hi
 Start exactly from the attached image. Keep the man, his pose, the framing, lighting, colors, background and any props exactly as in the image for the first A-roll shot, and do not redescribe or restyle them. He keeps looking at the camera unless a shot says otherwise.
 0-2.5s SHOT 1 (A-roll, close-up): he shakes his head once: "Any no? Fix it first."
 2.5-4s SHOT 2 (B-roll): a hand sliding the clipboard across the marble table toward the camera. His voice continues: "Save this."
-4-7s SHOT 3 (A-roll, medium shot): straight to camera: "DM the word PLAN"
-7-10s SHOT 4 (A-roll, close-up): he ticks the last box and smiles: "and Zenix will review yours." Hold still for the final second.
+4-7s SHOT 3 (A-roll, medium shot): straight to camera: "Comment the word PLAN"
+7-10s SHOT 4 (A-roll, close-up): he ticks the last box and smiles: "and Zenix will send you the guide." Hold still for the final second.
 Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery, the same voice in every clip. Lips match speech. No music.
 Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no readable text. B-roll shots are realistic and match the warm look of the A-roll.
 ```
@@ -341,7 +341,7 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 **Full script:**
 
-> "You wouldn't hide the milk in the basement. Your landing page does. Someone clicked your ad for one offer, and now they're hunting through banners. If the deal isn't obvious, they leave. Put your ad's exact offer at the top, with the price and one reason to trust you. Then give them one clear button. DM the word PAGE and Zenix will check your ad and page together."
+> "You wouldn't hide the milk in the basement. Your landing page does. Someone clicked your ad for one offer, and now they're hunting through banners. If the deal isn't obvious, they leave. Put your ad's exact offer at the top, with the price and one reason to trust you. Then give them one clear button. Comment the word PAGE and Zenix will send you the guide."
 
 Studio: office.
 
@@ -382,7 +382,7 @@ Edit @presenter-office: hands clasped on the table, sitting upright, calm, sligh
 ```
 Start exactly from the attached image. Keep the man, his pose, the framing, lighting, colors, background and any props exactly as in the image for the first A-roll shot, and do not redescribe or restyle them. He keeps looking at the camera unless a shot says otherwise.
 0-3s SHOT 1 (A-roll, close-up): he looks into the lens and says: "Then give them one clear button."
-3-7s SHOT 2 (A-roll, medium shot): back to the man, straight to camera: "DM the word PAGE and Zenix will check your ad and page together."
+3-7s SHOT 2 (A-roll, medium shot): back to the man, straight to camera: "Comment the word PAGE and Zenix will send you the guide."
 7-10s SHOT 3 (A-roll, close-up): he smiles slightly, holding still for the final second.
 Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery, the same voice in every clip. Lips match speech. No music.
 Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no readable text. B-roll shots are realistic and match the warm look of the A-roll.
@@ -398,7 +398,7 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 **Full script:**
 
-> "Your supermarket does not need a video team. Film these three reels. One: pick the best item on the shelf, and say why. Two: show one deal with the price and the aisle. Three: answer a customer question standing in the store. Keep each under thirty seconds. Save this list. DM the word STORE and Zenix will review your supermarket marketing."
+> "Your supermarket does not need a video team. Film these three reels. One: pick the best item on the shelf, and say why. Two: show one deal with the price and the aisle. Three: answer a customer question standing in the store. Keep each under thirty seconds. Save this list. Comment the word STORE and Zenix will send you the guide."
 
 Studio: couch.
 
@@ -441,8 +441,8 @@ Edit @presenter-couch: he sits back relaxed with one hand open, no props. Vertic
 Start exactly from the attached image. Keep the man, his pose, the framing, lighting, colors, background and any props exactly as in the image for the first A-roll shot, and do not redescribe or restyle them. He keeps looking at the camera unless a shot says otherwise.
 0-2.5s SHOT 1 (A-roll, close-up): "Keep each under thirty seconds."
 2.5-4.3s SHOT 2 (B-roll): a phone recording with a generic timer icon in the corner. His voice continues: "Save this list."
-4.3-7.3s SHOT 3 (A-roll, medium shot): straight to camera: "DM the word STORE"
-7.3-10s SHOT 4 (A-roll, close-up): "and Zenix will review your supermarket marketing." Hold still for the final second.
+4.3-7.3s SHOT 3 (A-roll, medium shot): straight to camera: "Comment the word STORE"
+7.3-10s SHOT 4 (A-roll, close-up): "and Zenix will send you the guide." Hold still for the final second.
 Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery, the same voice in every clip. Lips match speech. No music.
 Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no readable text. B-roll shots are realistic and match the warm look of the A-roll.
 ```
@@ -457,7 +457,7 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 **Full script:**
 
-> "Your DMs are a cash register nobody is standing at. A shopper asks your hours, and waits. Set one automatic reply that does three things. Say thanks. Answer the top three questions: hours, location, and offers. Offer a human for everything else. Test it from a customer's phone. Automation handles the routine. People handle the rest. Save this template. DM the word REPLY and Zenix will review your setup."
+> "Your DMs are a cash register nobody is standing at. A shopper asks your hours, and waits. Set one automatic reply that does three things. Say thanks. Answer the top three questions: hours, location, and offers. Offer a human for everything else. Test it from a customer's phone. Automation handles the routine. People handle the rest. Save this template. Comment the word REPLY and Zenix will send you the guide."
 
 Studio: office.
 
@@ -499,8 +499,8 @@ Edit @presenter-office: both hands on the table near the bell, looking at the le
 Start exactly from the attached image. Keep the man, his pose, the framing, lighting, colors, background and any props exactly as in the image for the first A-roll shot, and do not redescribe or restyle them. He keeps looking at the camera unless a shot says otherwise.
 0-4s SHOT 1 (A-roll, close-up): "Automation handles the routine. People handle the rest."
 4-5.3s SHOT 2 (B-roll): a hand sliding a blank template card across the marble table. His voice continues: "Save this template."
-5.3-8.3s SHOT 3 (A-roll, medium shot): straight to camera: "DM the word REPLY"
-8.3-10s SHOT 4 (A-roll, close-up): "and Zenix will review your setup." He taps the bell once and smiles. Hold still for the final second.
+5.3-8.3s SHOT 3 (A-roll, medium shot): straight to camera: "Comment the word REPLY"
+8.3-10s SHOT 4 (A-roll, close-up): "and Zenix will send you the guide." He taps the bell once and smiles. Hold still for the final second.
 Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery, the same voice in every clip. Lips match speech. No music.
 Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no readable text. B-roll shots are realistic and match the warm look of the A-roll.
 ```
@@ -515,7 +515,7 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 **Full script:**
 
-> "Squint at your weekly poster. If the deal disappears, shoppers might miss it too. This is the squint test. It takes five seconds. Blur your eyes and look for three things. The hero deal, the price, and the store name. If any one vanishes, it is too small. Make that one bigger, then test it on your phone. Save this for your next poster. DM the word POSTER and Zenix will review yours."
+> "Squint at your weekly poster. If the deal disappears, shoppers might miss it too. This is the squint test. It takes five seconds. Blur your eyes and look for three things. The hero deal, the price, and the store name. If any one vanishes, it is too small. Make that one bigger, then test it on your phone. Save this for your next poster. Comment the word POSTER and Zenix will send you the guide."
 
 Studio: couch.
 
@@ -557,7 +557,7 @@ Edit @presenter-couch: he holds a smartphone at chest height with the screen off
 Start exactly from the attached image. Keep the man, his pose, the framing, lighting, colors, background and any props exactly as in the image for the first A-roll shot, and do not redescribe or restyle them. He keeps looking at the camera unless a shot says otherwise.
 0-3.8s SHOT 1 (A-roll, medium shot): he holds up a phone: "Make that one bigger, then test it on your phone."
 3.8-6s SHOT 2 (B-roll): a hand holding a phone showing a blurred clean poster with one big deal. His voice continues: "Save this for your next poster."
-6-10s SHOT 3 (A-roll, close-up): straight to camera: "DM the word POSTER and Zenix will review yours." Hold still for the final second.
+6-10s SHOT 3 (A-roll, close-up): straight to camera: "Comment the word POSTER and Zenix will send you the guide." Hold still for the final second.
 Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery, the same voice in every clip. Lips match speech. No music.
 Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no readable text. B-roll shots are realistic and match the warm look of the A-roll.
 ```
@@ -572,7 +572,7 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 **Full script:**
 
-> "Nobody follows a megaphone. If your supermarket's page only shouts buy now, why would anyone stay? Three posts, same pitch, nothing to answer, nothing to save, nothing to share. Answer one real customer question in every sales post. Show how a product is used, or let your team speak. Then connect that post to a sale. DM the word GROW and Zenix will review your content."
+> "Nobody follows a megaphone. If your supermarket's page only shouts buy now, why would anyone stay? Three posts, same pitch, nothing to answer, nothing to save, nothing to share. Answer one real customer question in every sales post. Show how a product is used, or let your team speak. Then connect that post to a sale. Comment the word GROW and Zenix will send you the guide."
 
 Studio: couch. Note: if the card lift at the end of clip 1 looks wrong, end clip 1 after 'why would anyone stay?' and open clip 2 with 'Three posts, same pitch,' before its first line.
 
@@ -615,8 +615,8 @@ Edit @presenter-couch: he leans slightly toward the camera with a relaxed explai
 Start exactly from the attached image. Keep the man, his pose, the framing, lighting, colors, background and any props exactly as in the image for the first A-roll shot, and do not redescribe or restyle them. He keeps looking at the camera unless a shot says otherwise.
 0-2.2s SHOT 1 (A-roll, close-up): he looks into the lens and says: "or let your team speak."
 2.2-5s SHOT 2 (A-roll, medium shot): back to the man: "Then connect that post to a sale."
-5-7.5s SHOT 3 (A-roll, medium shot): straight to camera: "DM the word GROW"
-7.5-10s SHOT 4 (A-roll, close-up): "and Zenix will review your content." He smiles slightly. Hold still for the final second.
+5-7.5s SHOT 3 (A-roll, medium shot): straight to camera: "Comment the word GROW"
+7.5-10s SHOT 4 (A-roll, close-up): "and Zenix will send you the guide." He smiles slightly. Hold still for the final second.
 Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery, the same voice in every clip. Lips match speech. No music.
 Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no readable text. B-roll shots are realistic and match the warm look of the A-roll.
 ```

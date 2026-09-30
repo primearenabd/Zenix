@@ -11,7 +11,7 @@ Status: draft for CEO and owner approval. Each script is about 30 seconds (61 to
 **CTA keyword:** PAGE
 
 **Full spoken script:**
-"You wouldn't hide the milk in the basement. Your landing page does. Someone clicked your ad for one offer, and now they're hunting through banners to find it. If the deal isn't obvious, they leave. Put your ad's exact offer at the top. Add the price, one reason to trust you, and one clear button. DM the word PAGE and Zenix will check your ad and page together."
+"You wouldn't hide the milk in the basement. Your landing page does. Someone clicked your ad for one offer, and now they're hunting through banners to find it. If the deal isn't obvious, they leave. Put your ad's exact offer at the top. Add the price, one reason to trust you, and one clear button. Comment the word PAGE and Zenix will send you the guide."
 
 ---
 
@@ -22,7 +22,7 @@ Status: draft for CEO and owner approval. Each script is about 30 seconds (61 to
 **CTA keyword:** GROW
 
 **Full spoken script:**
-"Nobody follows a megaphone. If your supermarket's page only shouts buy now, why would anyone stay? Three posts, same pitch, nothing to answer, nothing to save, nothing to share. Answer one real customer question in every sales post. Show how a product is used, or let your team speak. Then connect that post to a sale. DM the word GROW and Zenix will review your content."
+"Nobody follows a megaphone. If your supermarket's page only shouts buy now, why would anyone stay? Three posts, same pitch, nothing to answer, nothing to save, nothing to share. Answer one real customer question in every sales post. Show how a product is used, or let your team speak. Then connect that post to a sale. Comment the word GROW and Zenix will send you the guide."
 
 ---
 
@@ -33,7 +33,7 @@ Status: draft for CEO and owner approval. Each script is about 30 seconds (61 to
 **CTA keyword:** STORE
 
 **Full spoken script:**
-"Four hundred percent. That's not a typo. Khaamar Baari Supermarket achieved four hundred percent revenue growth in one year while working with Zenix. Specific proof builds trust, and a specific offer does too. Lead with your strongest deal. Show the price and where to find the store, in one short video. Then make sure your Google listing matches. DM the word STORE and Zenix will review your supermarket marketing."
+"Four hundred percent. That's not a typo. Khaamar Baari Supermarket achieved four hundred percent revenue growth in one year while working with Zenix. Specific proof builds trust, and a specific offer does too. Lead with your strongest deal. Show the price and where to find the store, in one short video. Then make sure your Google listing matches. Comment the word STORE and Zenix will send you the guide."
 
 Proof note: the approved sentence is spoken unchanged. Add no other figures. The tips are general advice, not a claim about what was done for the client.
 
@@ -46,7 +46,7 @@ Proof note: the approved sentence is spoken unchanged. Add no other figures. The
 **CTA keyword:** MAP
 
 **Full spoken script:**
-"Your store sign says open. Google says closed. Guess who shoppers believe. Some won't call to check. They'll just go elsewhere. Nearby shoppers can be gone before they ever reach your door. Check today's hours, then weekends and holidays. Test your phone number, directions, and photos on a customer's phone. DM the word MAP and Zenix will review your local listing."
+"Your store sign says open. Google says closed. Guess who shoppers believe. Some won't call to check. They'll just go elsewhere. Nearby shoppers can be gone before they ever reach your door. Check today's hours, then weekends and holidays. Test your phone number, directions, and photos on a customer's phone. Comment the word MAP and Zenix will send you the guide."
 
 ---
 
@@ -57,7 +57,7 @@ Proof note: the approved sentence is spoken unchanged. Add no other figures. The
 **CTA keyword:** PLAN
 
 **Full spoken script:**
-"The Boost button doesn't make a post better. Just louder. So before you press it, answer one thing: what should a stranger do next? Visit, call, or message? If you can't name it, you're paying to show a vague post to more strangers. Pick one offer, one audience, one action. Put the offer first. DM the word PLAN and Zenix will review it before you spend."
+"The Boost button doesn't make a post better. Just louder. So before you press it, answer one thing: what should a stranger do next? Visit, call, or message? If you can't name it, you're paying to show a vague post to more strangers. Pick one offer, one audience, one action. Put the offer first. Comment the word PLAN and Zenix will send you the guide."
 
 ---
 
@@ -65,7 +65,7 @@ Proof note: the approved sentence is spoken unchanged. Add no other figures. The
 
 1. The CEO approves each script, each hook action, and the use of his likeness and voice.
 2. Timed read-through with the real voice. Over 30 seconds: cut the last sentence before the CTA.
-3. Weekly cap and an owner for each review offer (PAGE, GROW, STORE, MAP, PLAN).
+3. A finished guide and a comment reply ready for each keyword (PAGE, GROW, STORE, MAP, PLAN).
 4. All on-screen text, labels, mockups, and the "400%" graphic are added in editing, never generated.
 5. Turn on Instagram's AI disclosure when posting.
 6. Confirm Higgsfield accepts the CEO reference image before spending credits.
