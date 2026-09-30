@@ -41,6 +41,14 @@ Voice: @Charon (the Charon voice), calm, warm, confident, male, deadpan delivery
 
 # Reel 1: MAP
 
+**Hook:** "Your store sign says open. Google says closed. Guess who shoppers believe."
+
+**What he does on the hook:** He holds a phone beside his face, taps it twice on "Google says closed", then lifts his eyebrows and tilts his head at the phone on "Guess who shoppers believe".
+
+**Full script:**
+
+> "Your store sign says open. Google says closed. Guess who shoppers believe. Some won't call to check. They'll just go elsewhere. Nearby shoppers can be gone before they ever reach your door. Check today's hours, then weekends and holidays. Test your phone number, directions, and photos on a customer's phone. DM the word MAP and Zenix will review your local listing."
+
 Studio: armchair.
 
 **Clip 1: first-frame image**
@@ -93,6 +101,14 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 # Reel 2: STORE
 
+**Hook:** "Four hundred percent. That's not a typo."
+
+**What he does on the hook:** He leans in with one hand flat on the table, taps the table once and points to the side on "not a typo". The "400%" count-up (0 to 400%) is added in the edit in the clean wall space, present from the first frame.
+
+**Full script:**
+
+> "Four hundred percent. That's not a typo. Khaamar Baari Supermarket achieved four hundred percent revenue growth in one year while working with Zenix. Specific proof builds trust, and a specific offer does too. Lead with your strongest deal. Show the price and where to find the store, in one short video. Then make sure your Google listing matches. DM the word STORE and Zenix will review your supermarket marketing."
+
 Studio: office.
 
 **Clip 1: first-frame image**
@@ -142,6 +158,14 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 ---
 
 # Reel 3: WEEK
+
+**Hook:** "Steal this seven-day content plan for your supermarket."
+
+**What he does on the hook:** He taps the chalkboard behind him seven times with his pen while looking at the camera.
+
+**Full script:**
+
+> "Steal this seven-day content plan for your supermarket. Monday, show what just arrived. Tuesday, your hero deal. Wednesday, answer a customer question. Thursday, introduce a team member. Friday, a weekend bundle. Saturday, your hours and location. Sunday, one simple recipe. This is a starter plan, not a rule. Save this. DM the word GROW and Zenix will review your content."
 
 Studio: armchair.
 
@@ -194,6 +218,14 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 # Reel 4: PLAN
 
+**Hook:** "The Boost button doesn't make a post better. Just louder."
+
+**What he does on the hook:** He shakes his head slowly on "better", then taps a glowing button on his phone on "louder". Edit: a volume swell rising on "louder". BOOST label added in the edit.
+
+**Full script:**
+
+> "The Boost button doesn't make a post better. Just louder. Before you press it: what should a stranger do next? Visit, call, or message? If you can't name it, you're paying to show a vague post to more strangers. Pick one offer, one audience, one action. Put the offer first. DM the word PLAN and Zenix will review it before you spend. Then boost it."
+
 Studio: armchair.
 
 **Clip 1: first-frame image**
@@ -243,6 +275,14 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 ---
 
 # Reel 5: PREFLIGHT
+
+**Hook:** "Pilots run a checklist before takeoff. Run one before you spend on ads."
+
+**What he does on the hook:** He holds a clipboard with blank checklist lines, clicks a pen and ticks the first box on "takeoff".
+
+**Full script:**
+
+> "Pilots run a checklist before takeoff. Run one before you spend on ads. One: can you track a call, a booking, or a sale? Two: does the ad promise one clear offer? Three: does the landing page match that offer? Four: is your audience close enough to visit? Any no? Fix it first. Save this. DM the word PLAN and Zenix will review yours."
 
 Studio: office.
 
@@ -295,6 +335,14 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 # Reel 6: PAGE
 
+**Hook:** "You wouldn't hide the milk in the basement. Your landing page does."
+
+**What he does on the hook:** He picks up a plain milk carton on "milk", lowers it out of frame below the table on "basement", then looks into camera with one raised eyebrow on "Your landing page does". Edit: small thud when it drops.
+
+**Full script:**
+
+> "You wouldn't hide the milk in the basement. Your landing page does. Someone clicked your ad for one offer, and now they're hunting through banners. If the deal isn't obvious, they leave. Put your ad's exact offer at the top, with the price and one reason to trust you. Then give them one clear button. DM the word PAGE and Zenix will check your ad and page together."
+
 Studio: office.
 
 **Clip 1: first-frame image**
@@ -343,6 +391,14 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 ---
 
 # Reel 7: HOOKS
+
+**Hook:** "Your supermarket does not need a video team."
+
+**What he does on the hook:** He holds a phone up as if filming the viewer, then lowers it and looks into the lens.
+
+**Full script:**
+
+> "Your supermarket does not need a video team. Film these three reels. One: pick the best item on the shelf, and say why. Two: show one deal with the price and the aisle. Three: answer a customer question standing in the store. Keep each under thirty seconds. Save this list. DM the word STORE and Zenix will review your supermarket marketing."
 
 Studio: couch.
 
@@ -395,6 +451,14 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 # Reel 8: REPLY
 
+**Hook:** "Your DMs are a cash register nobody is standing at."
+
+**What he does on the hook:** A silver desk service bell sits on the table. He taps it on "cash register", taps it again on "nobody", then looks into the lens and waits. Edit: two bell dings.
+
+**Full script:**
+
+> "Your DMs are a cash register nobody is standing at. A shopper asks your hours, and waits. Set one automatic reply that does three things. Say thanks. Answer the top three questions: hours, location, and offers. Offer a human for everything else. Test it from a customer's phone. Automation handles the routine. People handle the rest. Save this template. DM the word REPLY and Zenix will review your setup."
+
 Studio: office.
 
 **Clip 1: first-frame image**
@@ -445,6 +509,14 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 
 # Reel 9: SQUINT
 
+**Hook:** "Squint at your weekly poster. If the deal disappears, shoppers might miss it too."
+
+**What he does on the hook:** He holds a busy generic supermarket poster beside his face and squints dramatically at it, then slowly lowers it to look into the lens with a raised eyebrow.
+
+**Full script:**
+
+> "Squint at your weekly poster. If the deal disappears, shoppers might miss it too. This is the squint test. It takes five seconds. Blur your eyes and look for three things. The hero deal, the price, and the store name. If any one vanishes, it is too small. Make that one bigger, then test it on your phone. Save this for your next poster. DM the word POSTER and Zenix will review yours."
+
 Studio: couch.
 
 **Clip 1: first-frame image**
@@ -493,6 +565,14 @@ Vertical 9:16, hard cuts between shots, no subtitles, no logos, no watermark, no
 ---
 
 # Reel 10: GROW
+
+**Hook:** "Nobody follows a megaphone."
+
+**What he does on the hook:** He brings a toy megaphone toward his mouth, stops, says nothing, lowers it and sets it aside, then delivers the line deadpan. The megaphone makes no sound.
+
+**Full script:**
+
+> "Nobody follows a megaphone. If your supermarket's page only shouts buy now, why would anyone stay? Three posts, same pitch, nothing to answer, nothing to save, nothing to share. Answer one real customer question in every sales post. Show how a product is used, or let your team speak. Then connect that post to a sale. DM the word GROW and Zenix will review your content."
 
 Studio: couch. Note: if the card lift at the end of clip 1 looks wrong, end clip 1 after 'why would anyone stay?' and open clip 2 with 'Three posts, same pitch,' before its first line.
 
